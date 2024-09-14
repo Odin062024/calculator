@@ -12,7 +12,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
     
-
+#Komentarz
 
 if __name__ == "__main__":
     operation = input('Podaj działanie, posługując się odpowiednią liczbą: 1 Dodawanie, 2 Odejmowanie, 3 Mnożenie, 4 Dzielenie:')
